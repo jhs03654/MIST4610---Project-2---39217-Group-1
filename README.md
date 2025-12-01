@@ -1,5 +1,4 @@
-# Mist4610GroupProject2
-# MIST4610 - Project 1 - 39217 Group 1 
+# MIST4610 - Project 2 - 39217 Group 1 
 
 ## Team Name
 39217 Group 1
